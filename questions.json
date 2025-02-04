@@ -1,0 +1,52 @@
+[
+    {
+      "question": "In 'Harry Potter and the Sorcerer’s Stone,' what is the first obstacle guarding the Sorcerer’s Stone?",
+      "options": ["The flying keys", "The chessboard", "Fluffy, the three-headed dog", "The potions riddle"],
+      "answer": "Fluffy, the three-headed dog"
+    },
+    {
+      "question": "In 'Harry Potter and the Deathly Hallows: Part 2,' what spell does McGonagall use to animate the suits of armor at Hogwarts?",
+      "options": ["Piertotum Locomotor", "Protego Maxima", "Fianto Duri", "Impervius"],
+      "answer": "Piertotum Locomotor"
+    },
+    {
+      "question": "What spell does Hermione use to fix Harry’s glasses in 'Harry Potter and the Sorcerer’s Stone'?",
+      "options": ["Lumos", "Reparo", "Accio", "Alohomora"],
+      "answer": "Reparo"
+    },
+    {
+      "question": "In 'Harry Potter and the Half-Blood Prince,' who is the first character to drink the potion guarding Voldemort’s locket Horcrux?",
+      "options": ["Harry Potter", "Dumbledore", "Kreacher", "Sirius Black"],
+      "answer": "Dumbledore"
+    },
+    {
+      "question": "In 'Harry Potter and the Chamber of Secrets,' what creature does Harry find in the Chamber?",
+      "options": ["Basilisk", "Acromantula", "Hippogriff", "Dementor"],
+      "answer": "Basilisk"
+    },
+    {
+      "question": "In 'Harry Potter and the Prisoner of Azkaban,' how does Hermione know that Professor Lupin is a werewolf?",
+      "options": ["She reads about him in a book.", "She notices his monthly disappearances and fear of the moon.", "She overhears Dumbledore talking about it.", "She finds his Wolfsbane Potion."],
+      "answer": "She notices his monthly disappearances and fear of the moon."
+    },
+    {
+      "question": "What does Dobby do when he is freed from the Malfoys in 'Harry Potter and the Chamber of Secrets'?",
+      "options": ["Uses magic to attack Lucius Malfoy", "Runs away in fear", "Gives Harry a sock in return", "Disapparates immediately"],
+      "answer": "Uses magic to attack Lucius Malfoy"
+    },
+    {
+      "question": "In 'Harry Potter and the Deathly Hallows: Part 1,' what phrase does Xenophilius Lovegood claim is a sign of the Deathly Hallows?",
+      "options": ["The Dark Lord shall fall.", "The wand, the stone, the cloak.", "The last enemy that shall be destroyed is death.", "The Deathly Hallows will make one the master of death."],
+      "answer": "The Deathly Hallows will make one the master of death."
+    },
+    {
+      "question": "In 'Harry Potter and the Half-Blood Prince,' who poisons Ron Weasley?",
+      "options": ["Draco Malfoy", "Severus Snape", "Horace Slughorn", "Ron himself (accidentally)"],
+      "answer": "Ron himself (accidentally)"
+    },
+    {
+      "question": "What is the name of the Weasley twins’ joke shop in 'Harry Potter and the Half-Blood Prince'?",
+      "options": ["Weasley’s Wizard Emporium", "Fred & George’s Magic Shop", "Weasleys' Wizard Wheezes", "Hogwarts Prank Haven"],
+      "answer": "Weasleys' Wizard Wheezes"
+    }
+  ]
