@@ -12,4 +12,4 @@ Think you know everything about Harry Potter? 🏰⚡ Test your wizarding knowle
 - JSON Handling: Fetching and displaying quiz questions dynamically
 - HTML & CSS: Custom styling with a Harry Potter-themed UI
 
-🚀 Live Demo: 
+🚀 Live Demo: https://aa358.github.io/Harry-Potter-Quiz/ 
