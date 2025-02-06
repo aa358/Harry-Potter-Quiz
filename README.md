@@ -8,7 +8,8 @@ Think you know everything about Harry Potter? 🏰⚡ Test your wizarding knowle
 - Restart option to play again and improve your score 💯
 
 🛠️ Technologies & Skills Learned:
-JavaScript (ES6+): DOM manipulation, event handling
-JSON Handling: Fetching and displaying quiz questions dynamically
-HTML & CSS: Custom styling with a Harry Potter-themed UI
+- JavaScript (ES6+): DOM manipulation, event handling
+- JSON Handling: Fetching and displaying quiz questions dynamically
+- HTML & CSS: Custom styling with a Harry Potter-themed UI
+
 🚀 Live Demo: 
