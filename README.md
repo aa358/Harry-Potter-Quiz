@@ -5,7 +5,7 @@ Think you know everything about Harry Potter? 🏰⚡ Test your wizarding knowle
 - Interactive quiz with multiple-choice questions 🎯
 - Dynamic score-based feedback with fun messages 🏆
 - Magical Harry Potter-themed design ✨
-- ✅ Restart option to play again and improve your score
+- Restart option to play again and improve your score
 
 🛠️ Technologies & Skills Learned:
 JavaScript (ES6+): DOM manipulation, event handling
